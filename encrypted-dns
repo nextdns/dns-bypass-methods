@@ -295,7 +295,7 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg.gridns.xyz
 sky.rethinkdns.com
-trr.dns.nextdns.io/
+trr.dns.nextdns.io
 tls-dns-u.odvr.dns-oarc.net
 uncensored-dot.dnswarden.com
 unicast.censurfridns.dk
