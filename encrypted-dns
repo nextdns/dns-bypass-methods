@@ -231,6 +231,7 @@ fdns1.dismail.de
 fdns2.dismail.de
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
+firefox.dns.nextdns.io
 free.bravedns.com
 freedns.controld.com
 getdnsapi.net
@@ -295,6 +296,7 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg.gridns.xyz
 sky.rethinkdns.com
+trr.dns.nextdns.io
 tls-dns-u.odvr.dns-oarc.net
 uncensored-dot.dnswarden.com
 unicast.censurfridns.dk
